@@ -1,2 +1,0 @@
-# jogoAcerto
-Created with CodeSandbox

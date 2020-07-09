@@ -44,7 +44,7 @@ function App() {
     return (
       <div>
         <p>
-          Acertei o número {palpite} com {numPalpites} tentativas !
+          Acertei o número {palpite} com {numPalpites} palpites !
         </p>
         <button onClick={iniciarJogo}>Iniciar Novamente</button>
       </div>
